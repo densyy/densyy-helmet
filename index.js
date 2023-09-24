@@ -15,4 +15,4 @@ function densyyHelmet (_req, res, next) {
   next()
 }
 
-module.exports = { densyyHelmet }
+module.exports = densyyHelmet
